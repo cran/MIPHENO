@@ -1,0 +1,10 @@
+538fea2212a50cae7982942eac6d30b6 *DESCRIPTION
+bb2dac231bd7f966748d5a5fe231d320 *NAMESPACE
+af00b182711eb7cb5ee11577cadb00ef *R/cdf.pval.R
+a7cb24feeabce720225c7fe5f8831b4b *R/find_hits.R
+e06f5dd36b660d65e38a1adacc95fa97 *R/mad.scores.R
+a695f3c756bccc51817483ce8c171333 *R/rm.outliers.R
+3ce8b31b50eab30447206ec6f1e934e5 *man/cdf.pval.Rd
+b0238bd11c382dcddc41ef5afc33ac88 *man/find_hits.Rd
+3bd2ecfdbbf71f9765dedb203345da6b *man/mad.scores.Rd
+3bbd51155c12745500e9eedc48b90894 *man/rm.outliers.Rd
