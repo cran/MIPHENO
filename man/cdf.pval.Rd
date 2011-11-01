@@ -42,8 +42,11 @@ cdf.pval(cdf.data, sample.data=NULL, ...)
 \author{Shannon M. Bell}
 \references{
   Shannon M. Bell, Lyle D. Burgoon, Robert L. Last. MIPHENO: Data normalization
-  for high throughput metabolite analysis. BMC Bioinformatics, in review}
-\seealso{\code{\link{ecdf}}}
+  for high throughput metabolite analysis. \emph{BMC Bioinformatics} 2012, 13(10)
+  }
+\seealso{
+  \code{\link{ecdf}}
+  }
 \examples{
  #See the sweave document in the corresponding paper for examples
 }

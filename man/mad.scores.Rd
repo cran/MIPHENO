@@ -41,11 +41,11 @@ mad.scores(data, parameter='FLATCODE', n=3, out=c('Zscore', 'label'), ...)
 \author{Shannon M. Bell}
 \references{
   Bell SM, Burgoon LD, Last RL. MIPHENO: Data normalization
-  for high throughput metabolite analysis. BMC Bioinformatics, in review
+  for high throughput metabolite analysis. \emph{BMC Bioinformatics} 2012, 13(10)
   
   Lu Y, et al. New connections across pathways and cellular processes:
   Industrialized mutant screening reveals novel associations between diverse
-  phenotypes in Arabidopsis. Plant Physiol 2010, 152(2):529-540
+  phenotypes in Arabidopsis. \emph{Plant Physiol} 2010, 152(2):529-540
   }
 \examples{
  #See the sweave document in the corresponding paper for examples

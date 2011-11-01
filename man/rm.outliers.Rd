@@ -40,7 +40,7 @@ rm.outliers(data, parameter='FLATCODE', n=3, ...)
 \author{Shannon M. Bell}
 \references{
   Bell SM, Burgoon LD, Last RL. MIPHENO: Data normalization
-  for high throughput metabolite analysis. BMC Bioinformatics, in review
+  for high throughput metabolite analysis. \emph{BMC Bioinformatics} 2012, 13(10)
   }
 \examples{
  #See the sweave document in the corresponding paper for examples
